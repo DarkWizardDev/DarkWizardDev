@@ -54,7 +54,7 @@ Permission granted. ⚡
 
 <p align="center"><b>🛡️ Frameworks & Hardware</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,arduino,raspberrypi,tensorflow&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,supabase,arduino,raspberrypi,tensorflow&theme=dark"/>
 </p>
 
 <p align="center"><b>🧰 Tools of the Craft</b></p>
@@ -75,9 +75,9 @@ Permission granted. ⚡
       <img src="https://img.shields.io/badge/status-awakening-a855f7?style=flat-square"/>
     </td>
     <td align="center" width="33%">
-      <h3>🗓️ ExoraMind</h3>
-      <sub>Smart planner SaaS<br/>Scheduling, reimagined</sub><br/><br/>
-      <img src="https://img.shields.io/badge/🔒-private-4c1d95?style=flat-square"/>
+      <h3>🗓️ Lirenic Planner</h3>
+      <sub>Daily planner SaaS in Italian<br/>Next.js · Supabase · Stripe</sub><br/><br/>
+      <img src="https://img.shields.io/badge/🔒-private_beta-4c1d95?style=flat-square"/>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/DarkWizardDev/arcane-circuit-toolkit"><h3>🔮 Arcane Circuit Toolkit</h3></a>
